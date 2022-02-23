@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Memo NOTE!</string>
+    <string name="name_of_list">Create your new note !</string>
+    <string name="create_list">Create</string>
+    <string name="add_task">Add</string>
+</resources>
